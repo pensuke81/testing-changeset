@@ -1,0 +1,5 @@
+---
+'@acme/b': patch
+---
+
+Test
